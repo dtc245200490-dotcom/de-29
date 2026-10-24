@@ -1,0 +1,8 @@
+.env
+.DS_Store
+*.log
+.idea/
+.vscode/
+backup_recipe.sql
+mysql_data/
+*.sql
